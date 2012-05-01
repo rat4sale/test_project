@@ -7,7 +7,7 @@
 	{
 		public function bone_code() 
 		{
-			trace( "hello" );
+			trace( "horse_raddish" );
 		}
 	}
 	
