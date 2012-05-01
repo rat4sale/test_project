@@ -7,7 +7,11 @@
 	{
 		public function bone_code() 
 		{
+<<<<<<< HEAD
 			trace( "horse_raddish" );
+=======
+			trace( "mongoose" );
+>>>>>>> origin/master
 		}
 	}
 	
